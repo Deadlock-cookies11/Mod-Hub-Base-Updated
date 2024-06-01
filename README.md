@@ -14,6 +14,7 @@ Mod Hub Base
 - Updated Crossmap
 - Updated Pattern
 - Updated Hooks
+- Updated YTD Loader
 
 # Credit
 - Updated By XIFI
